@@ -52,3 +52,6 @@ border-bottom: 1px solid #282b33;
     vertical-align: middle;
 display: none;
 }
+.text-avatar{
+    display: none;
+}
